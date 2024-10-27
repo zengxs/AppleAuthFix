@@ -1,0 +1,9 @@
+Package: ru.shad0wdev.appleauthfix
+Name: AppleAuthFix
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Fixes Apple auth process in Asspp
+Maintainer: shad0wdev
+Author: shad0wdev
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
